@@ -5,5 +5,7 @@ Arduino Libary: https://i.imgur.com/prNt2pE.png
 
 Java Libary: https://i.imgur.com/5n7rrDG.png
 
+Java Project Structure: https://i.imgur.com/x7i5N1r.png
+
 Video Demonstration / Explanation: https://youtu.be/tBSPE7dzZcI
 
